@@ -1,9 +1,5 @@
 *.class
-*input/target/*
-*output/target/*
-*project/target/*
-*tests/target/*
+*/target/*
 .bsp/*
 .idea/*
 target/*
-rules/target/*
